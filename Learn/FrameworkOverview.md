@@ -122,5 +122,36 @@ blah <img src="http://latex.codecogs.com/gif.latex?j"> for a given frmaework <im
 <img src="http://latex.codecogs.com/gif.latex?disparity_%7Bj%2C%5C%3Ba_%7Bi%7D%7D%20%3D%20%5Cfrac%7Bmetric_%7Bj%2C%5C%3Ba_%7Bi%7D%7D%7D%7Bmetric_%7Bj%2C%5C%3Ba_%7Breference%5C%3Bgroup%7D%7D%7D">
 
 
+## Bibliography:
+Austin, S., Khareghani, S. &  Butterfield, K.F. (2020). Unlocking Public Sector AI: AI Procurement in a Box. World Economic Forum. Retrieved from: https://www.weforum.org/reports/ai-procurement-in-a-box
+
+
+Jobin, A., Ienca, M. & Vayena E. (2019). Artificial Intelligence: the global landscape of ethics guidelines. Health Ethics & Policy Lab, ETH Zurich, 8092 Zurich, Switzerland. Retrieved from: https://www.google.com/url?q=https://arxiv.org/pdf/1906.11668.pdf&sa=D&source=editors&ust=1617822220776000&usg=AOvVaw2eSpLCGhyLpQrS7y9LFsIg
+
+Lee et al. (2019). WeBuildAI: Participatory Framework for Algorithmic Governance. Association for Computing Machinery. Retrieved from: https://dl.acm.org/doi/abs/10.1145/3359283
+
+Zhu el al. (2018). Value-Sensitive Algorithm Design: Method, Case Study, and Lessons. Association for Computing Machinery. Retrieved from: https://dl.acm.org/doi/10.1145/3274463
+
+(2017). Finland’s Age of Artificial Intelligence: Turning Finland into a leading country in the application of artificial intelligence, objective and recommendations for measures. Ministry of Economic Affairs and Employment of Finland. Retrieved from: https://knowledge4policy.ec.europa.eu/ai-watch/finland-ai-strategy-report_en
+
+(2018). Ethics Guidelines for Trustworthy AI: High-Level Expert Group on Artificial Intelligence. The European Commission. Retrieved from: https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+
+(2018). Montréal Declaration for a Responsible Development of Artificial Intelligence. Université de Montréal. Retrieved from: https://www.montrealdeclaration-responsibleai.com/context
+
+(2018). National Strategy for Artificial Intelligence. National Institution for Transforming India. Retrieved from: https://www.google.com/url?q=https://niti.gov.in/writereaddata/files/document_publication/NationalStrategy-for-AI-Discussion-Paper.pdf&sa=D&source=editors&ust=1617823638595000&usg=AOvVaw2JVawjbACbYeqKkj9Gm4xB
+
+(2020). AI Playbook for the U.S. Federal Government. American Council for Technology-Industry Advisory Council. Retrieved from: https://www.google.com/url?q=https://www.actiac.org/system/files/AI%2520Playbook_1.pdf&sa=D&source=editors&ust=1617824116445000&usg=AOvVaw24Vw1GYSj-In_Ifpi3qKOH
+
+(2020). Executive Order 13960: Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government. Federal Register: The Daily Journal of the United States Government. Retrieved from https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government
+
+(2021). Algorithmic Impact Assessment Tool. Government of Canada. Retrieved from: https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html
+
+(2021). Recommendation of the Council on Artificial Intelligence. OECD/LEGAL/0449. Retrieved from: https://www.oecd.org/science/forty-two-countries-adopt-new-oecd-principles-on-artificial-intelligence.htm
+
+(2021). Responsible AI: Approach Document for India Part 1 - Principles for Responsible AI. National Institution for Transforming India. Retrieved from: https://www.google.com/url?q=https://www.niti.gov.in/sites/default/files/2021-02/Responsible-AI-22022021.pdf&sa=D&source=editors&ust=1617823479078000&usg=AOvVaw3xLSFY1o1iNw0Q31YGGy0C
+
+Artificial Intelligence. National Institution of Standards and Technology. Retrieved from: https://www.nist.gov/artificial-intelligence
+
+Aequitas. Center for Data and Public Policy: The University of Chicago. Retrieved from: http://www.datasciencepublicpolicy.org/projects/aequitas/
 
 
