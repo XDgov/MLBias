@@ -32,6 +32,23 @@ As a starting point, the United States published its principles on December 3, 2
 
 For a comprehensive overview of ethics principles across all frameworks (including industry frameworks), please refer to Anna Jobin, Marcello Ienca, and Effy Vayena’s “Artificial Intelligence: the global landscape of ethics guidelines,” published in 2019. For the remainder of this paper, we cover four different frameworks to highlight interesting distinctions between frameworks.
 
+| Principle | United States | OECD | India’s National Institution for Transforming India (NITI) | European Commission | 
+| --------- | ------------- | ---- | ---------------------------------------------------------- | ------------------- |
+| Lawful and respectful of our Nation’s values     |   ✓    |  ✓  |  |  |
+| Inclusive and diverse     |       |  ✓  | ✓  | ✓ |
+| Purposeful and performance driven | ✓ | ✓ |  | ✓  | 
+| Accurate, reliable and effective | ✓ | ✓ |  |  |
+| Safe, secure and resilient | ✓ | ✓ | ✓ | ✓ |
+| Explainable | ✓ | ✓ |  |  | 
+| Democratic |  | ✓ | ✓ |  |
+| Respect for Human Rights |  | ✓ | ✓ |  
+| Regularly Monitored | ✓ | ✓ |  |  |
+| Transparent | ✓ | ✓ | ✓ | ✓ |
+| Accountable | ✓ | ✓ | ✓ | ✓ |
+
+***NOTE: These principles are checked off based on explicit mention. Principles that could be implied/interpreted but were not mentioned as an explicit principle were not counted. Additionally, there are other principles that are important that are not listed here. It is important for your particular use case to explicitly define your values before beginning your project***
+
+
 The OECD’s principles, which have been adopted by 42 countries to date, focus on how:
   - AI should benefit people and the planet by driving inclusive growth, sustainable development and well-being.
   - AI systems should be designed in a way that respects the rule of law, human rights, democratic values and diversity, and they should include appropriate safeguards –  for example, enabling human intervention where necessary – to ensure a fair and just society.
@@ -99,28 +116,21 @@ This toolkit is still in its early stages. As we continue to collect more case s
 
 
 
-### Table
+### Summary of AI Priniples Frameworks
 Below, we have summarized the contributions and salient points of various frameworks:
 
-| Framework                        | Organization                                                                           | Description                                                                                                   | 
+| Principle                        | Policy Implications                                                                           | Technical Implications and Considerations                                                                                                   | 
 |-------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------| 
-| **Blah**        | <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20PP_g">                                                                           | The number of blah, i.e.,  <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cwidehat%7BY%7D%3D1.">                | 
-| **BLahe** | <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20K%20%3D%20%5Csum_%7BA%3Da_1%7D%5E%7BA%3Da_n%7D%20PP_%7Bg%28a_i%29%7D">                                      | blah <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20A.">                               | 
-| **Predicted Negative**        | <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20PN_g">                                                                             | The number of entities within a group which decision is negative, i.e.,  <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clarge%20%5Cwidehat%7BY%7D%3D0.">                     | 
-| **blah**      | <img src="http://latex.codecogs.com/gif.latex?PPrev_g%20%3D%20%5Cfrac%7BPP_g%7D%7B%7Cg%7C%7D%20%3D%20%5Ctext%7BPr%28%7D%5Cwidehat%7BY%7D%3D1%5C%3B%7C%5C%3BA%3Da_i%29">     | The fraction of entities within a group which were predicted as positive.                                     | 
-| **blah**   | <img src="http://latex.codecogs.com/gif.latex?PPR_g%20%3D%20%5Cfrac%7BPP_g%7D%7BK%7D%20%3D%20%5Ctext%7BPr%28%7DA%3Da_i%5C%3B%7C%5C%3B%5Cwidehat%7BY%7D%3D1%29">         | The fraction of the entities predicted as positive that belong to a certain group.                            | 
-| **blah**            | <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20FP_g">                                                                            | The number of entities of the group with <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clarge%20%5Cwidehat%7BY%7D%3D1"> and <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clarge%20Y%3D0.">                                           | 
-| **blah**            | <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20FN_g">                                                                            | The number of entities of the group with <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clarge%20%5Cwidehat%7BY%7D%3D0"> and <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clarge%20Y%3D1.">                                           | 
-| **blah**             | <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20TP_g">                                                                            | The number of entities of the group with <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clarge%20%5Cwidehat%7BY%7D%3D1"> and <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clarge%20Y%3D1.">                                          | 
-| **blah**             | <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20TN_g">                                                                            | The number of entities of the group with <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clarge%20%5Cwidehat%7BY%7D%3D0"> and <img src="http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clarge%20Y%3D0.">                                          | 
-| **blah**      | <img src="http://latex.codecogs.com/gif.latex?FDR_g%20%3D%20%5Cfrac%7BFP_g%7D%7BPP_g%7D%20%3D%20%5Ctext%7BPr%28%7DY%3D0%5C%3B%7C%5C%3B%5Cwidehat%7BY%7D%3D1%2CA%3Da_i%29">  | The fraction of false positives of a group within the predicted positive of the group.                        | 
-| **blah**       | <img src="http://latex.codecogs.com/gif.latex?FOR_g%20%3D%20%5Cfrac%7BFN_g%7D%7BPN_g%7D%20%3D%20%5Ctext%7BPr%28%7DY%3D1%5C%3B%7C%5C%3B%5Cwidehat%7BY%7D%3D0%2CA%3Da_i%29">  | The fraction of false negatives of a group within the predicted negative of the group.                        | 
-| **blah**       | <img src="http://latex.codecogs.com/gif.latex?FPR_g%20%3D%20%5Cfrac%7BFP_g%7D%7BLN_g%7D%20%3D%20%5Ctext%7BPr%28%7D%5Cwidehat%7BY%7D%3D1%5C%3B%7C%5C%3BY%3D0%2CA%3Da_i%29"> | The fraction of false positives of a group within the labeled negative of the group.                          | 
-| **blah**       | <img src="http://latex.codecogs.com/gif.latex?FNR_g%20%3D%20%5Cfrac%7BFN_g%7D%7BLP_g%7D%20%3D%20%5Ctext%7BPr%28%7D%5Cwidehat%7BY%7D%3D0%5C%3B%7C%5C%3BY%3D1%2C%20A%3Da_i%29">  | The fraction of false negatives of a group within the labeled positives of the group.                         | 
+| **Purposeful and performance-driven**        | Require agencies to design AI where the benefits significantly outweigh the risk                                                                           | Agencies must assess the risks of designing, implementing and developing AI and ensure that any risks produced from the product can be assessed and managed                | 
+| **Transparent** | Require reports on how an AI model has generated insights or decisions                                      |Agencies must incorporate precise and explicit design methods in addition to any information of how they plan to use AI to the public while protecting privacy laws                                | 
+| **Inclusive & Diverse**        | Require use a diverse set of training data to minimize bias; audit all datasets before use                                                                             | Require staff training on diversity equity and inclusion. Provide staff with diversity standards for training data sets                    | 
+| **Privacy**      | Evaluate all potential datasets on whether the data is intended for the use case in question; facilitate privacy audit on desired data use leveraging citizens and subject matter experts     | Use opt-in rather than opt-out for data collection options. Default should always be: no data is being collected                                      |
+| **Explainability**   | Develop guidelines to make the model understandable by stakeholders, users and others affected by the model’s conclusions         |Create an explainability guideline of how the model was designed, trained, implemented and how it is reaching certain conclusions                            | 
+| **Accountable**            | Governments should hold agencies developing AIs accountable for the proper functioning in line with the principles outlined by the government                                                                            | Companies should be held responsible for implementing, enforcing and monitoring the implementation of guidelines to stay in accordance with government principles and policies                                           | 
+| **Regularly Monitored**            | Governments should build sustainable infrastructure that is capable of continuously assessing  AI systems as they are rapidly changing                                                                            | Agencies should continuously update their guidelines as AI models change and develop. Companies must continuously test their AI application to ensure they are in line with governmental guidelines and policies                                           | 
+| **Safe, secure, and resilient**             | Governments should enforce regulations for safety standards when agencies deploy AI to prevent and avoid vulnerabilities in its systems rather than reactively responding to it                                                                            | Agencies should develop security practices that align with government policies and constantly update them as the technology changes                                          | 
 
-blah <img src="http://latex.codecogs.com/gif.latex?j"> for a given frmaework <img src="http://latex.codecogs.com/gif.latex?a_i"> is calculated as follows:
-<img src="http://latex.codecogs.com/gif.latex?disparity_%7Bj%2C%5C%3Ba_%7Bi%7D%7D%20%3D%20%5Cfrac%7Bmetric_%7Bj%2C%5C%3Ba_%7Bi%7D%7D%7D%7Bmetric_%7Bj%2C%5C%3Ba_%7Breference%5C%3Bgroup%7D%7D%7D">
-
+## Bibliography
 
 
 
